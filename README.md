@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Maryam
 
-<!--
-**maryamariyan/maryamariyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Architect & Software Engineer**  
 
-Here are some ideas to get you started:
+Eight years building high-scale infrastructure and AI tooling at **Microsoft**. I develop the foundational components that millions of developers depend on to power the .NET ecosystem and GitHub Copilot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ The Invisible Impact
+*I build the plumbing. If you've configured a .NET app or read a log line today, you've likely executed code I designed.*
+
+- 🌲 **Logging Source Generator:** 1.4B+ downloads. Designed a Roslyn generator with zero runtime cost.
+- 🤖 **GitHub Copilot:** Boosted code completion accuracy by +8% through novel evaluation pipelines.
+- ⚡ **Performance:** Cut configuration allocations by ~90% and tripled Razor editor responsiveness.
+- 🧠 **AI/RAG:** Built agentic AI prototypes (BugBuddy) and reference RAG implementations for the .NET community.
+
+---
+
+### 🏗️ Tech Stack & Range
+| Layer | Technologies |
+| :--- | :--- |
+| **Core Systems** | .NET (BCL), C#, Roslyn (Source Generators), ASP.NET Core |
+| **AI / ML** | LLMs, RAG Pipelines, ML.NET, OpenAI Tool-calling, Eval Pipelines |
+| **Tooling** | Visual Studio/VS Code, Language Server Protocol (LSP), Telemetry & A/B Testing |
+| **OSS** | open-source maintainer of `dotnet/runtime`, `dotnet/aspnetcore`, and `dotnet/extensions` |
